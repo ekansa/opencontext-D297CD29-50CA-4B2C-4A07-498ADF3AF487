@@ -1,12 +1,12 @@
 OPEN CONTEXT GITHUB DATA REPOSITORY
 
-Project: 'Ilıpınar Zooarchaeology' 
-License: Attribution <http://creativecommons.org/licenses/by/3.0> 
-Project ID: 'D297CD29-50CA-4B2C-4A07-498ADF3AF487' 
+Project: 'Florida Site Files' 
+License: Zero (Public Domain) <http://creativecommons.org/publicdomain/zero/1.0/> 
+Project ID: '81204AF8-127C-4686-E9B0-1202C3A47959' 
 
 
 Open Context <http://opencontext.org> is an open access data publishing service that primarily serves the archaeological community. Open Context uses GitHub for dataset version control and as another channel for data dissemination. While GitHub offers excellent services, Open Context does not regard GitHub as a long-term preservation repository. For data archiving purposes, Open Context works with digital libraries and other dedicated institutional repositories.
 
 Open Context encourages reuse of these data and adaptation of these data, provided data creators are properly cited and credited.
 
-Please refer to this project's overview in Open Context at <http://opencontext.org/projects/D297CD29-50CA-4B2C-4A07-498ADF3AF487> for more background information about these data.
+Please refer to this project's overview in Open Context at <http://opencontext.org/projects/81204AF8-127C-4686-E9B0-1202C3A47959> for more background information about these data.

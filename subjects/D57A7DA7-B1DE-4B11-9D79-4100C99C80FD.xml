@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="D57A7DA7-B1DE-4B11-9D79-4100C99C80FD" ownedBy="81204AF8-127C-4686-E9B0-1202C3A47959">
+  <arch:name>
+    <arch:string>MR03590</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Site</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_3_489edaa4d</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>6C9781E9-D3CF-422C-51FB-FAF7A91ABAE0</arch:variableID>
+          <arch:valueID>62519694-B090-4875-22A6-0E55C760EB6C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/1FE18981-57F4-4560-6F28-54A5E8F9073C">1FE18981-57F4-4560-6F28-54A5E8F9073C</oc:propid>
+          <oc:var_label type="nominal">Culture</oc:var_label>
+          <oc:show_val>American Acquisition &amp; Development 1821-45</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="6C9781E9-D3CF-422C-51FB-FAF7A91ABAE0" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="1FE18981-57F4-4560-6F28-54A5E8F9073C" localURI="http://opencontext.org/properties/1FE18981-57F4-4560-6F28-54A5E8F9073C" href="http://opencontext.org/vocabularies/dinaa/00031">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>19th Century</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6C9781E9-D3CF-422C-51FB-FAF7A91ABAE0</arch:variableID>
+          <arch:valueID>2856BEC9-7DDD-4232-4E53-C143282E95D5</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/6111A9D2-BE5D-4CA6-3826-3C01B52CC3C6">6111A9D2-BE5D-4CA6-3826-3C01B52CC3C6</oc:propid>
+          <oc:var_label type="nominal">Culture</oc:var_label>
+          <oc:show_val>Nineteenth C. American 1821-1899</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="6C9781E9-D3CF-422C-51FB-FAF7A91ABAE0" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="6111A9D2-BE5D-4CA6-3826-3C01B52CC3C6" localURI="http://opencontext.org/properties/6111A9D2-BE5D-4CA6-3826-3C01B52CC3C6" href="http://opencontext.org/vocabularies/dinaa/00031">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>19th Century</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>40878093-F9A8-4FC9-0FF9-CB4846BAF4B7</arch:variableID>
+          <arch:valueID>D999B478-E63D-43B2-2F54-B9A1383A49C4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/69B046A7-1DBB-4991-7DAD-E735FDFE9867">69B046A7-1DBB-4991-7DAD-E735FDFE9867</oc:propid>
+          <oc:var_label type="nominal">Site Type</oc:var_label>
+          <oc:show_val>Homestead</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>40878093-F9A8-4FC9-0FF9-CB4846BAF4B7</arch:variableID>
+          <arch:valueID>D48A73FA-E9CF-439E-8757-8B2E6B1D8130</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9E26A5C7-55B2-4401-8C3D-767BCED6B042">9E26A5C7-55B2-4401-8C3D-767BCED6B042</oc:propid>
+          <oc:var_label type="nominal">Site Type</oc:var_label>
+          <oc:show_val>Wetland</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>33FD173F-6C7A-4267-BEAB-D5A37BDDE4F7</arch:variableID>
+          <arch:valueID>0C3DE9FC-C7AA-401B-6BE5-9C878DC7CBAA</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/EE39F746-AA0E-45BC-CD43-AB1E5CDD226B">EE39F746-AA0E-45BC-CD43-AB1E5CDD226B</oc:propid>
+          <oc:var_label type="alphanumeric">Site Name</oc:var_label>
+          <oc:show_val>Orange Creek Homestead</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+    <arch:observation obsNumber="3">
+      <oc:obs_metadata>
+        <oc:source>z_3_44a78fbb5</oc:source>
+        <oc:name>Diagnostic Types</oc:name>
+        <oc:type>Primary</oc:type>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>57957BBF-B906-430F-CB25-EB5A001DD3BA</arch:variableID>
+          <arch:valueID>E6A55805-BBC0-484A-CCFA-395D0DB1DFFF</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D9DB19B7-D68A-4C8F-5EE3-4066D1166B94">D9DB19B7-D68A-4C8F-5EE3-4066D1166B94</oc:propid>
+          <oc:var_label type="nominal">Diagnostic Type (1)</oc:var_label>
+          <oc:show_val>Farm implements</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>CFDE1EE2-AAD2-45BC-580F-415C0585D8CA</arch:variableID>
+          <arch:valueID>F4C20DAE-B576-4319-C26D-A329E755D83B</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/11FA2E0D-6756-4032-492D-C72CA03F607C">11FA2E0D-6756-4032-492D-C72CA03F607C</oc:propid>
+          <oc:var_label type="nominal">Diagnostic Type (2)</oc:var_label>
+          <oc:show_val>cast iron pipe</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>885F23D1-96F1-4291-3376-BE70A681CDF9</arch:variableID>
+          <arch:valueID>A0F40B21-196F-4F0F-CEAA-600177C59D87</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C7FF7568-82C2-4444-A33F-6B0E59C1100B">C7FF7568-82C2-4444-A33F-6B0E59C1100B</oc:propid>
+          <oc:var_label type="nominal">Diagnostic Type (3)</oc:var_label>
+          <oc:show_val>fire brick</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DC04F08F-A9D0-4E27-D5D0-5DC6E8BAB419</arch:variableID>
+          <arch:valueID>3B294FA4-BB11-48DA-7E47-8818E20A3BA8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/60EA8120-4FFE-42E1-279B-21DD670386E6">60EA8120-4FFE-42E1-279B-21DD670386E6</oc:propid>
+          <oc:var_label type="nominal">Diagnostic Type (4)</oc:var_label>
+          <oc:show_val>machinery parts</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>48A9DA48-FE78-4627-E764-3E4BEA646068</arch:variableID>
+          <arch:valueID>2698C7A1-93E5-4D16-7A06-3F35A3D4816D</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/374AD7F4-4303-405B-43C9-52C7E14923B0">374AD7F4-4303-405B-43C9-52C7E14923B0</oc:propid>
+          <oc:var_label type="nominal">Diagnostic Type (5)</oc:var_label>
+          <oc:show_val>Animal bone</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F21CB950-97C5-429B-DAED-B20F3B1586CC</arch:variableID>
+          <arch:valueID>B2752FDB-47FE-4F71-D7BD-1F6A3A16DDA8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/CF7702F6-610C-464B-1DCD-A9BD07A4D150">CF7702F6-610C-464B-1DCD-A9BD07A4D150</oc:propid>
+          <oc:var_label type="nominal">Diagnostic Type (6)</oc:var_label>
+          <oc:show_val>glass fragments</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>AB4BE484-E69F-46B4-C9E0-8729E5ED8BDD</arch:variableID>
+          <arch:valueID>A9E6E324-953C-4CDD-E690-346E9387E1B2</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/30AA3F26-3726-4361-0561-F63565C4B276">30AA3F26-3726-4361-0561-F63565C4B276</oc:propid>
+          <oc:var_label type="nominal">Diagnostic Type (7)</oc:var_label>
+          <oc:show_val>jar and ceramic shards</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+    <arch:observation obsNumber="5">
+      <oc:obs_metadata>
+        <oc:source>z_3_2e33eaf43</oc:source>
+        <oc:name>Other info</oc:name>
+        <oc:type>Primary</oc:type>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>1A2779EF-C372-4A73-0A01-426EF242F3AA</arch:variableID>
+          <arch:valueID>709D5109-A759-4FB5-F634-22F9CDF78991</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9B3B9F7D-F17B-4953-B80A-1EE6B190E0B2">9B3B9F7D-F17B-4953-B80A-1EE6B190E0B2</oc:propid>
+          <oc:var_label type="alphanumeric">Comments (Primarily temporal or functional interpretations)</oc:var_label>
+          <oc:show_val>Farm implements, cast iron pipe, fire brick, machinery parts, animal bone, glass fragments, jar and ceramic shards are scattered on ground surface.</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/B3E3DAA9-4D41-48AE-ADF8-5494AA087E86">
+        <oc:name>Florida</oc:name>
+        <oc:id>B3E3DAA9-4D41-48AE-ADF8-5494AA087E86</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/00ED1B3C-5BC5-4B9C-8898-05557424E76F">
+        <oc:name>Marion</oc:name>
+        <oc:id>00ED1B3C-5BC5-4B9C-8898-05557424E76F</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Florida Site Files: MR03590 (Site)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-11-14</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>Florida</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/">Florida Department of State, Division of Historical Resources (FDS-DOHR)</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/D57A7DA7-B1DE-4B11-9D79-4100C99C80FD</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/81204AF8-127C-4686-E9B0-1202C3A47959">Florida Site Files</oc:project_name>
+    <oc:pub_date>2013-11-14T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Florida+Site+Files%3A+MR03590+%28Site%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=Florida&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Florida+Department+of+State%2C+Division+of+Historical+Resources+%28FDS-DOHR%29&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FD57A7DA7-B1DE-4B11-9D79-4100C99C80FD</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>29.458702319047</oc:geo_lat>
+      <oc:geo_long>-82.001953125</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/D57A7DA7-B1DE-4B11-9D79-4100C99C80FD" specificity="-11">
+        <oc:note>Location data approximated as a security precaution. Only accurate to within ~15km.</oc:note>
+        <oc:source_name>MR03590</oc:source_name>
+        <oc:source_id>D57A7DA7-B1DE-4B11-9D79-4100C99C80FD</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-11-15T07:50:02-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/11/15 07:50:02</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1821 CE - 1899 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>1821</oc:time_start>
+          <oc:time_finish>1899</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/D57A7DA7-B1DE-4B11-9D79-4100C99C80FD">
+            <oc:source_name>MR03590</oc:source_name>
+            <oc:source_id>D57A7DA7-B1DE-4B11-9D79-4100C99C80FD</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-11-14T17:50:52-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="189E45C7-ECA3-4941-1AC1-38F3F9B4C580" ownedBy="81204AF8-127C-4686-E9B0-1202C3A47959">
+  <arch:name>
+    <arch:string>DI00206</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Site</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_3_489edaa4d</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>6C9781E9-D3CF-422C-51FB-FAF7A91ABAE0</arch:variableID>
+          <arch:valueID>C15CBEA7-9E79-4080-D1C5-61859618D645</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DED69450-32A0-495A-092A-1F9F88088E42">DED69450-32A0-495A-092A-1F9F88088E42</oc:propid>
+          <oc:var_label type="nominal">Culture</oc:var_label>
+          <oc:show_val>Seminole, 1st War to 2nd 1817-1834</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="6C9781E9-D3CF-422C-51FB-FAF7A91ABAE0" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="DED69450-32A0-495A-092A-1F9F88088E42" localURI="http://opencontext.org/properties/DED69450-32A0-495A-092A-1F9F88088E42" href="http://opencontext.org/vocabularies/dinaa/00055">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Historic Indian</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6C9781E9-D3CF-422C-51FB-FAF7A91ABAE0</arch:variableID>
+          <arch:valueID>2856BEC9-7DDD-4232-4E53-C143282E95D5</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/6111A9D2-BE5D-4CA6-3826-3C01B52CC3C6">6111A9D2-BE5D-4CA6-3826-3C01B52CC3C6</oc:propid>
+          <oc:var_label type="nominal">Culture</oc:var_label>
+          <oc:show_val>Nineteenth C. American 1821-1899</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="6C9781E9-D3CF-422C-51FB-FAF7A91ABAE0" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="6111A9D2-BE5D-4CA6-3826-3C01B52CC3C6" localURI="http://opencontext.org/properties/6111A9D2-BE5D-4CA6-3826-3C01B52CC3C6" href="http://opencontext.org/vocabularies/dinaa/00031">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>19th Century</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>40878093-F9A8-4FC9-0FF9-CB4846BAF4B7</arch:variableID>
+          <arch:valueID>AA35A804-31C1-4691-0444-3E067075B728</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/EA1BA01C-9DF3-4CF0-A0B1-DB08FCE9B2D5">EA1BA01C-9DF3-4CF0-A0B1-DB08FCE9B2D5</oc:propid>
+          <oc:var_label type="nominal">Site Type</oc:var_label>
+          <oc:show_val>Road segment (historic)</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>33FD173F-6C7A-4267-BEAB-D5A37BDDE4F7</arch:variableID>
+          <arch:valueID>B49D0786-024E-4E01-5566-4BF88E00783A</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C6C5181C-1D04-4E27-A1BE-121651B5A03B">C6C5181C-1D04-4E27-A1BE-121651B5A03B</oc:propid>
+          <oc:var_label type="alphanumeric">Site Name</oc:var_label>
+          <oc:show_val>OLD ROAD TO FORT FANNING</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1065421B-CD7C-478F-3612-67017A7307C1</arch:variableID>
+          <arch:valueID>1E9AF3EC-CAA3-4692-5699-883B4F3D6E26</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/4CCFF58B-DC92-4E48-2B2E-094BE8460C6E">4CCFF58B-DC92-4E48-2B2E-094BE8460C6E</oc:propid>
+          <oc:var_label type="nominal">SHPO evaluation of NR eligibility</oc:var_label>
+          <oc:show_val>no evaluation (unspecified)</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+    <arch:observation obsNumber="5">
+      <oc:obs_metadata>
+        <oc:source>z_3_2e33eaf43</oc:source>
+        <oc:name>Other info</oc:name>
+        <oc:type>Primary</oc:type>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>2AEE4C46-0097-4AA7-A4F9-141D6F018C9C</arch:variableID>
+          <arch:valueID>558309CF-519F-49D3-CD4E-21B9D1CDB632</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/2055AA06-3104-4859-E4B8-F4C9F3668D05">2055AA06-3104-4859-E4B8-F4C9F3668D05</oc:propid>
+          <oc:var_label type="alphanumeric">Un-coded site type</oc:var_label>
+          <oc:show_val>ABORIGINAL MATL. MAY BE FOUND IN RIVER BELOW FALLS</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4432E9F6-4322-4CDF-4702-5106BB19415F</arch:variableID>
+          <arch:valueID>3E420223-09DE-476D-340B-66707E85732B</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/3C942D42-9780-425F-F0E2-D41DFCBB328D">3C942D42-9780-425F-F0E2-D41DFCBB328D</oc:propid>
+          <oc:var_label type="alphanumeric">Un-coded culture description</oc:var_label>
+          <oc:show_val>PROBABLY EXISTED IN PREHISTORIC/PROTOHISTORIC TIMES</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1A2779EF-C372-4A73-0A01-426EF242F3AA</arch:variableID>
+          <arch:valueID>D89FBEB0-3313-41D1-6CB0-80757CDAE652</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/2EF72617-1351-4B16-002C-9B7F3C5ED182">2EF72617-1351-4B16-002C-9B7F3C5ED182</oc:propid>
+          <oc:var_label type="alphanumeric">Comments (Primarily temporal or functional interpretations)</oc:var_label>
+          <oc:show_val>ROAD SEGMENT PROBABLY IN USE FOR SEVERAL CENTURIES</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/B3E3DAA9-4D41-48AE-ADF8-5494AA087E86">
+        <oc:name>Florida</oc:name>
+        <oc:id>B3E3DAA9-4D41-48AE-ADF8-5494AA087E86</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/EE54064D-1D73-4C9B-B5CD-3D07E6D442BB">
+        <oc:name>Dixie</oc:name>
+        <oc:id>EE54064D-1D73-4C9B-B5CD-3D07E6D442BB</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Florida Site Files: DI00206 (Site)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-11-14</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>Florida</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/">Florida Department of State, Division of Historical Resources (FDS-DOHR)</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/189E45C7-ECA3-4941-1AC1-38F3F9B4C580</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/81204AF8-127C-4686-E9B0-1202C3A47959">Florida Site Files</oc:project_name>
+    <oc:pub_date>2013-11-14T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Florida+Site+Files%3A+DI00206+%28Site%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=Florida&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Florida+Department+of+State%2C+Division+of+Historical+Resources+%28FDS-DOHR%29&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F189E45C7-ECA3-4941-1AC1-38F3F9B4C580</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>29.764348324846</oc:geo_lat>
+      <oc:geo_long>-83.408203125</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/189E45C7-ECA3-4941-1AC1-38F3F9B4C580" specificity="-11">
+        <oc:note>Location data approximated as a security precaution. Only accurate to within ~15km.</oc:note>
+        <oc:source_name>DI00206</oc:source_name>
+        <oc:source_id>189E45C7-ECA3-4941-1AC1-38F3F9B4C580</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-11-15T03:55:46-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/11/15 03:55:46</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1817 CE - 1899 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>1817</oc:time_start>
+          <oc:time_finish>1899</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/189E45C7-ECA3-4941-1AC1-38F3F9B4C580">
+            <oc:source_name>DI00206</oc:source_name>
+            <oc:source_id>189E45C7-ECA3-4941-1AC1-38F3F9B4C580</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-11-14T17:50:37-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

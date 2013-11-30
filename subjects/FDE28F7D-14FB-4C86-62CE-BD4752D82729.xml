@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="FDE28F7D-14FB-4C86-62CE-BD4752D82729" ownedBy="81204AF8-127C-4686-E9B0-1202C3A47959">
+  <arch:name>
+    <arch:string>HR00082</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Site</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_3_489edaa4d</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>6C9781E9-D3CF-422C-51FB-FAF7A91ABAE0</arch:variableID>
+          <arch:valueID>8216C1C8-FE33-499C-D151-FC9B3707E241</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/4398A89B-2A59-4C2F-49EB-C574434B926E">4398A89B-2A59-4C2F-49EB-C574434B926E</oc:propid>
+          <oc:var_label type="nominal">Culture</oc:var_label>
+          <oc:show_val>Prehistoric-Aceramic</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="6C9781E9-D3CF-422C-51FB-FAF7A91ABAE0" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="4398A89B-2A59-4C2F-49EB-C574434B926E" localURI="http://opencontext.org/properties/4398A89B-2A59-4C2F-49EB-C574434B926E" href="http://opencontext.org/vocabularies/dinaa/00028">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Prehistoric Undifferentiated</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6C9781E9-D3CF-422C-51FB-FAF7A91ABAE0</arch:variableID>
+          <arch:valueID>3259774F-F344-4C0F-FA73-68DC757BD85A</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D3931474-E652-4C83-AE1F-4FA4018E22B1">D3931474-E652-4C83-AE1F-4FA4018E22B1</oc:propid>
+          <oc:var_label type="nominal">Culture</oc:var_label>
+          <oc:show_val>Twentieth C American</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="6C9781E9-D3CF-422C-51FB-FAF7A91ABAE0" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="D3931474-E652-4C83-AE1F-4FA4018E22B1" localURI="http://opencontext.org/properties/D3931474-E652-4C83-AE1F-4FA4018E22B1" href="http://opencontext.org/vocabularies/dinaa/00032">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>20th Century</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>40878093-F9A8-4FC9-0FF9-CB4846BAF4B7</arch:variableID>
+          <arch:valueID>F4338BDC-9E6E-4B62-FF00-4DF0C1786473</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/2B5F66DC-1E5D-478C-409C-80C310CEC90E">2B5F66DC-1E5D-478C-409C-80C310CEC90E</oc:propid>
+          <oc:var_label type="nominal">Site Type</oc:var_label>
+          <oc:show_val>Artifact scatter-variable density</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>40878093-F9A8-4FC9-0FF9-CB4846BAF4B7</arch:variableID>
+          <arch:valueID>D999B478-E63D-43B2-2F54-B9A1383A49C4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/69B046A7-1DBB-4991-7DAD-E735FDFE9867">69B046A7-1DBB-4991-7DAD-E735FDFE9867</oc:propid>
+          <oc:var_label type="nominal">Site Type</oc:var_label>
+          <oc:show_val>Homestead</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>40878093-F9A8-4FC9-0FF9-CB4846BAF4B7</arch:variableID>
+          <arch:valueID>D98EBB14-B6FB-419A-AE15-4665535E0FEE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/94568151-89D1-4B86-A991-E95038C52E52">94568151-89D1-4B86-A991-E95038C52E52</oc:propid>
+          <oc:var_label type="nominal">Site Type</oc:var_label>
+          <oc:show_val>Refuse (historic)</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>40878093-F9A8-4FC9-0FF9-CB4846BAF4B7</arch:variableID>
+          <arch:valueID>D496126B-4BAA-4C50-8CFD-8FFD16A3AD0A</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/870C1206-3607-45C9-0B8C-25E531E84E12">870C1206-3607-45C9-0B8C-25E531E84E12</oc:propid>
+          <oc:var_label type="nominal">Site Type</oc:var_label>
+          <oc:show_val>Other</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>40878093-F9A8-4FC9-0FF9-CB4846BAF4B7</arch:variableID>
+          <arch:valueID>ADD1A4BC-DBFE-4F68-D07D-825FDFE275AB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C3FCC976-55F6-4029-7571-FE52C5F94606">C3FCC976-55F6-4029-7571-FE52C5F94606</oc:propid>
+          <oc:var_label type="nominal">Site Type</oc:var_label>
+          <oc:show_val>Single Artifact</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>40878093-F9A8-4FC9-0FF9-CB4846BAF4B7</arch:variableID>
+          <arch:valueID>93A6E601-6E30-4E0D-E251-4967A11C3BD6</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/6594B8A2-8E19-43EA-F3FB-BEACF1878CFC">6594B8A2-8E19-43EA-F3FB-BEACF1878CFC</oc:propid>
+          <oc:var_label type="nominal">Site Type</oc:var_label>
+          <oc:show_val>Extractive site</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>40878093-F9A8-4FC9-0FF9-CB4846BAF4B7</arch:variableID>
+          <arch:valueID>2F4DB893-3B94-46B3-E469-1756082835F8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/89AE1904-81E2-48DA-218E-D856A6B04B41">89AE1904-81E2-48DA-218E-D856A6B04B41</oc:propid>
+          <oc:var_label type="nominal">Site Type</oc:var_label>
+          <oc:show_val>Land-terrestrial</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>33FD173F-6C7A-4267-BEAB-D5A37BDDE4F7</arch:variableID>
+          <arch:valueID>061FD3AC-800C-4B15-E3C1-042A0F5F200C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C20C8748-3687-48C1-7757-C77E8AD3E9C6">C20C8748-3687-48C1-7757-C77E8AD3E9C6</oc:propid>
+          <oc:var_label type="alphanumeric">Site Name</oc:var_label>
+          <oc:show_val>MELDRIM TURPENTINE CAMP</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1065421B-CD7C-478F-3612-67017A7307C1</arch:variableID>
+          <arch:valueID>90E8A1A8-AB38-40B3-4E2C-40954283EE40</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A1D3E182-2CAA-4699-682D-2F83BC243C7D">A1D3E182-2CAA-4699-682D-2F83BC243C7D</oc:propid>
+          <oc:var_label type="nominal">SHPO evaluation of NR eligibility</oc:var_label>
+          <oc:show_val>not eligible</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>EBBEDF7D-46FD-4C44-2C94-A337D4A3B4F1</arch:variableID>
+          <arch:date>1995-05-12</arch:date>
+          <oc:propid href="http://opencontext.org/properties/0D487F65-4929-4208-6F66-929B7898102B">0D487F65-4929-4208-6F66-929B7898102B</oc:propid>
+          <oc:var_label type="calendric">Date of SHPO evaluation</oc:var_label>
+          <oc:show_val>1995-05-12</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+    <arch:observation obsNumber="2">
+      <oc:obs_metadata>
+        <oc:source>z_3_22f80063a</oc:source>
+        <oc:name>Artifact Categories</oc:name>
+        <oc:type>Primary</oc:type>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>DA9851A5-3A81-450E-2954-27464879D921</arch:variableID>
+          <arch:decimal>199406</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/E332A46C-9338-4089-5605-F69D2F86FDCC">E332A46C-9338-4089-5605-F69D2F86FDCC</oc:propid>
+          <oc:var_label type="decimal">Form Number</oc:var_label>
+          <oc:show_val>199406</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B21D9D87-2F28-4B64-B98C-0FA718E4A291</arch:variableID>
+          <arch:valueID>D312D826-2A4C-460D-834F-1F79C2688E9C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/F677E23D-F277-4F79-876D-72C3223E3E23">F677E23D-F277-4F79-876D-72C3223E3E23</oc:propid>
+          <oc:var_label type="nominal">Artifact Category (1)</oc:var_label>
+          <oc:show_val>Brick/building materials</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C97E778B-A29E-4884-FFDD-332010E21E8F</arch:variableID>
+          <arch:valueID>9DD14E55-8681-4310-D325-D230E1F2F421</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/CB1C9C6C-E673-4504-35B4-CD51DB407B17">CB1C9C6C-E673-4504-35B4-CD51DB407B17</oc:propid>
+          <oc:var_label type="nominal">Artifact Disposition (1)</oc:var_label>
+          <oc:show_val>items in this category collected</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>04E96765-666A-484B-99E3-7A03D4561A6C</arch:variableID>
+          <arch:valueID>E94FBB3A-714C-43B4-B412-F9D6372B8CE0</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/80DB4336-5D00-4CF9-584F-E5B27622583B">80DB4336-5D00-4CF9-584F-E5B27622583B</oc:propid>
+          <oc:var_label type="nominal">Artifact Category (2)</oc:var_label>
+          <oc:show_val>Bone-animal or unidentif</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C2943458-780A-4EAF-87D3-B9C3EABCAB68</arch:variableID>
+          <arch:valueID>37AAB637-0D66-481F-E3F6-667E5E217E6A</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/4ACEDF73-96F2-41FD-1DEE-178EB5232D68">4ACEDF73-96F2-41FD-1DEE-178EB5232D68</oc:propid>
+          <oc:var_label type="nominal">Artifact Disposition (2)</oc:var_label>
+          <oc:show_val>all of category was collected</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D82B0C78-0EBF-4515-0788-A9A7501D7DF8</arch:variableID>
+          <arch:valueID>5C461A32-94EA-446F-DBB8-5E7641E275CB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B3D3C522-E3C4-44AF-89F6-4F7CAA66C24B">B3D3C522-E3C4-44AF-89F6-4F7CAA66C24B</oc:propid>
+          <oc:var_label type="nominal">Artifact Category (3)</oc:var_label>
+          <oc:show_val>Nonaboriginal ceramics</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>18CF6244-022D-4F22-F518-13F7206CEE52</arch:variableID>
+          <arch:valueID>37AAB637-0D66-481F-E3F6-667E5E217E6A</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B38F16FD-934A-44A2-660E-E56541519F3A">B38F16FD-934A-44A2-660E-E56541519F3A</oc:propid>
+          <oc:var_label type="nominal">Artifact Disposition (3)</oc:var_label>
+          <oc:show_val>all of category was collected</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>661525B9-9F21-482A-F677-8BBCC6DEAD83</arch:variableID>
+          <arch:valueID>4A580102-E4EE-42F4-4B23-98E15FFA1082</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/907EAA74-9500-4FE5-55E0-1F619504DA76">907EAA74-9500-4FE5-55E0-1F619504DA76</oc:propid>
+          <oc:var_label type="nominal">Artifact Category (4)</oc:var_label>
+          <oc:show_val>Glass</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A38EB7CE-E75F-4617-5B02-9A8826A27368</arch:variableID>
+          <arch:valueID>9DD14E55-8681-4310-D325-D230E1F2F421</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/59E87975-6AFC-4019-9E2E-659BE24FC77E">59E87975-6AFC-4019-9E2E-659BE24FC77E</oc:propid>
+          <oc:var_label type="nominal">Artifact Disposition (4)</oc:var_label>
+          <oc:show_val>items in this category collected</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9DE683DF-3090-4538-BEF4-4E063E8FB474</arch:variableID>
+          <arch:valueID>24FA136F-00CF-45E0-F23A-784C63F94118</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/E65F6762-55FE-44B1-D219-8FF475F2F7FD">E65F6762-55FE-44B1-D219-8FF475F2F7FD</oc:propid>
+          <oc:var_label type="nominal">Artifact Category (5)</oc:var_label>
+          <oc:show_val>Lithics</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>480CCDAF-0E3C-412E-FC38-77B26C9DC097</arch:variableID>
+          <arch:valueID>37AAB637-0D66-481F-E3F6-667E5E217E6A</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/0BBA8D1C-FEEC-4870-6E2B-8FB84FCC67A1">0BBA8D1C-FEEC-4870-6E2B-8FB84FCC67A1</oc:propid>
+          <oc:var_label type="nominal">Artifact Disposition (5)</oc:var_label>
+          <oc:show_val>all of category was collected</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>513C8D9D-8D8D-486B-0A61-2223FDA36F1C</arch:variableID>
+          <arch:valueID>359661DB-F8A3-47CC-CC9A-99BDF287ECF4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A22E932C-C3DE-46D1-8211-ADD4D66D23B2">A22E932C-C3DE-46D1-8211-ADD4D66D23B2</oc:propid>
+          <oc:var_label type="nominal">Artifact Category (6)</oc:var_label>
+          <oc:show_val>Metal</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>456F1B4F-5D36-4BE5-5CBB-9AE249F8F1B7</arch:variableID>
+          <arch:valueID>9DD14E55-8681-4310-D325-D230E1F2F421</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C070C880-DCF2-4DA8-2BB3-8FAFF6D93783">C070C880-DCF2-4DA8-2BB3-8FAFF6D93783</oc:propid>
+          <oc:var_label type="nominal">Artifact Disposition (6)</oc:var_label>
+          <oc:show_val>items in this category collected</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>68A3E492-3085-4BA6-9C2E-4D690A34BD0B</arch:variableID>
+          <arch:valueID>D7F7724B-FD99-4CF2-6D9A-8C6FFB5644E5</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A54DCD1B-29D1-4176-6334-A6D8ECAB038D">A54DCD1B-29D1-4176-6334-A6D8ECAB038D</oc:propid>
+          <oc:var_label type="nominal">Artifact Category (7)</oc:var_label>
+          <oc:show_val>Precious metal/coins</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>0C91870F-B275-4A1C-A61F-416E845AE505</arch:variableID>
+          <arch:valueID>37AAB637-0D66-481F-E3F6-667E5E217E6A</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C9E966D9-6301-4A6E-54F8-C9879CF1BB64">C9E966D9-6301-4A6E-54F8-C9879CF1BB64</oc:propid>
+          <oc:var_label type="nominal">Artifact Disposition (7)</oc:var_label>
+          <oc:show_val>all of category was collected</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+    <arch:observation obsNumber="3">
+      <oc:obs_metadata>
+        <oc:source>z_3_44a78fbb5</oc:source>
+        <oc:name>Diagnostic Types</oc:name>
+        <oc:type>Primary</oc:type>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>57957BBF-B906-430F-CB25-EB5A001DD3BA</arch:variableID>
+          <arch:valueID>9AC8D2C9-7C1E-4B3C-21C7-3E53A66D8567</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/FFFE8B77-C642-4FC9-B593-E968DDB798F0">FFFE8B77-C642-4FC9-B593-E968DDB798F0</oc:propid>
+          <oc:var_label type="nominal">Diagnostic Type (1)</oc:var_label>
+          <oc:show_val>1919 Cent</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7000BDEA-DEC9-4674-0631-B8A7E56EA4BB</arch:variableID>
+          <arch:integer>1</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/0DD242C0-34EF-40E0-7FBF-BB64D815255E">0DD242C0-34EF-40E0-7FBF-BB64D815255E</oc:propid>
+          <oc:var_label type="integer">Diagnostic Type Count (1)</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>CFDE1EE2-AAD2-45BC-580F-415C0585D8CA</arch:variableID>
+          <arch:valueID>520E52DC-C1E3-40CE-2C73-60451B79EADA</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/92FC6867-617D-4072-C16F-0862906E6BB0">92FC6867-617D-4072-C16F-0862906E6BB0</oc:propid>
+          <oc:var_label type="nominal">Diagnostic Type (2)</oc:var_label>
+          <oc:show_val>HERTY CUPS</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>02511160-F647-49EC-7DC7-ADDB3B33E4A7</arch:variableID>
+          <arch:integer>17</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/2B7B8BAC-2992-4365-AAC5-860D3F58AE44">2B7B8BAC-2992-4365-AAC5-860D3F58AE44</oc:propid>
+          <oc:var_label type="integer">Diagnostic Type Count (2)</oc:var_label>
+          <oc:show_val>17</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>885F23D1-96F1-4291-3376-BE70A681CDF9</arch:variableID>
+          <arch:valueID>D8D96D42-0F0A-45F8-CC52-1F1F7943A09F</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/01950703-898F-4A26-F22A-A669E8D49482">01950703-898F-4A26-F22A-A669E8D49482</oc:propid>
+          <oc:var_label type="nominal">Diagnostic Type (3)</oc:var_label>
+          <oc:show_val>IRONSTONE</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>3093CC63-05EB-48E7-26D1-9EC675679F65</arch:variableID>
+          <arch:integer>6</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/4F0F0876-575A-4DC7-E7CB-1728413C97E6">4F0F0876-575A-4DC7-E7CB-1728413C97E6</oc:propid>
+          <oc:var_label type="integer">Diagnostic Type Count (3)</oc:var_label>
+          <oc:show_val>6</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DC04F08F-A9D0-4E27-D5D0-5DC6E8BAB419</arch:variableID>
+          <arch:valueID>357E9BCD-EBBB-49FD-0B7D-1EE218C58A1F</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/2DD4E305-41D9-46A5-494C-9DDF91F238C6">2DD4E305-41D9-46A5-494C-9DDF91F238C6</oc:propid>
+          <oc:var_label type="nominal">Diagnostic Type (4)</oc:var_label>
+          <oc:show_val>PATENT MEDICINE BOTTLES</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9517DBB9-593C-45F9-F0E0-DE35DF89245D</arch:variableID>
+          <arch:integer>9</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/B262ADAC-2CD5-48E5-99FD-25BA8956B378">B262ADAC-2CD5-48E5-99FD-25BA8956B378</oc:propid>
+          <oc:var_label type="integer">Diagnostic Type Count (4)</oc:var_label>
+          <oc:show_val>9</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>48A9DA48-FE78-4627-E764-3E4BEA646068</arch:variableID>
+          <arch:valueID>4E6D9C56-0D7E-42AC-1D51-F8C9D6D90ACF</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/90BE673F-FC8A-42D2-4798-C8EDE3E986EC">90BE673F-FC8A-42D2-4798-C8EDE3E986EC</oc:propid>
+          <oc:var_label type="nominal">Diagnostic Type (5)</oc:var_label>
+          <oc:show_val>PURPLE BOTTLE GLASS</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9992CBEE-4870-457B-228A-2B20992879D6</arch:variableID>
+          <arch:integer>92</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/F8FEFDA2-39E3-4B73-E69E-9208BB68DF44">F8FEFDA2-39E3-4B73-E69E-9208BB68DF44</oc:propid>
+          <oc:var_label type="integer">Diagnostic Type Count (5)</oc:var_label>
+          <oc:show_val>92</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F21CB950-97C5-429B-DAED-B20F3B1586CC</arch:variableID>
+          <arch:valueID>4E087BDB-ADB7-4E74-86FD-30D62F82F8FE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/0D7292D9-CBD0-4519-BFCD-40078606F303">0D7292D9-CBD0-4519-BFCD-40078606F303</oc:propid>
+          <oc:var_label type="nominal">Diagnostic Type (6)</oc:var_label>
+          <oc:show_val>SEMI-AUTOMATIC BOTTLE MACHINE</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>CC4BD10C-5C47-48DD-5EAD-BA9ECD453525</arch:variableID>
+          <arch:integer>3</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/D63AE210-B7E2-4067-6DE4-1DE10E0AB411">D63AE210-B7E2-4067-6DE4-1DE10E0AB411</oc:propid>
+          <oc:var_label type="integer">Diagnostic Type Count (6)</oc:var_label>
+          <oc:show_val>3</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>AB4BE484-E69F-46B4-C9E0-8729E5ED8BDD</arch:variableID>
+          <arch:valueID>5BEA856F-0219-40C6-1BBA-F58527242A12</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/5A107B8E-E912-44E0-BE8B-239EA45E5E12">5A107B8E-E912-44E0-BE8B-239EA45E5E12</oc:propid>
+          <oc:var_label type="nominal">Diagnostic Type (7)</oc:var_label>
+          <oc:show_val>VARIOUS CARTRIDGES WITH HEAD STAMPS</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6F11CC08-FF82-428F-35E1-96D6C8B35BA5</arch:variableID>
+          <arch:integer>7</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/973EBE3C-7169-4BA7-0CC3-BF28D7B8E71E">973EBE3C-7169-4BA7-0CC3-BF28D7B8E71E</oc:propid>
+          <oc:var_label type="integer">Diagnostic Type Count (7)</oc:var_label>
+          <oc:show_val>7</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>214A1E3C-6F68-4E29-B183-2DC22A860942</arch:variableID>
+          <arch:valueID>E9D12E2B-AA26-4485-7B9F-4C9EBDB66890</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D6426AB8-D957-44A7-BE93-E6D85B876958">D6426AB8-D957-44A7-BE93-E6D85B876958</oc:propid>
+          <oc:var_label type="nominal">Diagnostic Type (8)</oc:var_label>
+          <oc:show_val>Whiteware</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>EF775034-ADD7-4BEA-984B-FCD4E5BC140D</arch:variableID>
+          <arch:integer>47</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/9877F40A-25A3-4826-68A9-E429EEA81230">9877F40A-25A3-4826-68A9-E429EEA81230</oc:propid>
+          <oc:var_label type="integer">Diagnostic Type Count (8)</oc:var_label>
+          <oc:show_val>47</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+    <arch:observation obsNumber="5">
+      <oc:obs_metadata>
+        <oc:source>z_3_2e33eaf43</oc:source>
+        <oc:name>Other info</oc:name>
+        <oc:type>Primary</oc:type>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>2EA1741F-DC18-44F8-2993-5A4DBE1EC1F0</arch:variableID>
+          <arch:valueID>28166584-31C8-40A6-0F38-145D9BC6648E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/75B69622-128E-49EB-5646-F2A24A6F0D55">75B69622-128E-49EB-5646-F2A24A6F0D55</oc:propid>
+          <oc:var_label type="alphanumeric">Remarks on collection strategies or artifacts</oc:var_label>
+          <oc:show_val>SUBSURFACE FEATURES</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2AEE4C46-0097-4AA7-A4F9-141D6F018C9C</arch:variableID>
+          <arch:valueID>2CBBC7F6-DE6B-44CE-27B3-BC63814109B7</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/96A2EAAD-9471-416F-B960-453EB2D88292">96A2EAAD-9471-416F-B960-453EB2D88292</oc:propid>
+          <oc:var_label type="alphanumeric">Un-coded site type</oc:var_label>
+          <oc:show_val>Subsurface features</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1A2779EF-C372-4A73-0A01-426EF242F3AA</arch:variableID>
+          <arch:valueID>02B4A86E-43EE-4C77-760C-7EC817270AF5</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/CEBD643A-FB6D-49BD-65EE-105C5D468295">CEBD643A-FB6D-49BD-65EE-105C5D468295</oc:propid>
+          <oc:var_label type="alphanumeric">Comments (Primarily temporal or functional interpretations)</oc:var_label>
+          <oc:show_val>PRIMARY OCCUPATION IS 20TH CENTURY TURPENTINE CAMP, BUT A FEW LITHIC WASTE FLAKES WERE ALSO RECOVERED</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/B3E3DAA9-4D41-48AE-ADF8-5494AA087E86">
+        <oc:name>Florida</oc:name>
+        <oc:id>B3E3DAA9-4D41-48AE-ADF8-5494AA087E86</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/A59612F5-A741-44D1-B29B-099A41517212">
+        <oc:name>Hardee</oc:name>
+        <oc:id>A59612F5-A741-44D1-B29B-099A41517212</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Florida Site Files: HR00082 (Site)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-11-14</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>Florida</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/">Florida Department of State, Division of Historical Resources (FDS-DOHR)</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/FDE28F7D-14FB-4C86-62CE-BD4752D82729</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/81204AF8-127C-4686-E9B0-1202C3A47959">Florida Site Files</oc:project_name>
+    <oc:pub_date>2013-11-14T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Florida+Site+Files%3A+HR00082+%28Site%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=Florida&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Florida+Department+of+State%2C+Division+of+Historical+Resources+%28FDS-DOHR%29&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FFDE28F7D-14FB-4C86-62CE-BD4752D82729</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>27.605643145325</oc:geo_lat>
+      <oc:geo_long>-82.001953125</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/FDE28F7D-14FB-4C86-62CE-BD4752D82729" specificity="-11">
+        <oc:note>Location data approximated as a security precaution. Only accurate to within ~15km.</oc:note>
+        <oc:source_name>HR00082</oc:source_name>
+        <oc:source_id>FDE28F7D-14FB-4C86-62CE-BD4752D82729</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-11-15T05:27:25-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/11/15 05:27:25</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(10K BCE - 1950 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-10000</oc:time_start>
+          <oc:time_finish>1950</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/FDE28F7D-14FB-4C86-62CE-BD4752D82729">
+            <oc:source_name>HR00082</oc:source_name>
+            <oc:source_id>FDE28F7D-14FB-4C86-62CE-BD4752D82729</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-11-14T17:51:10-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>
